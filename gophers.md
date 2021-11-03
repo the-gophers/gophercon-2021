@@ -4,7 +4,7 @@ Who are you? Where can we find you? What do you enjoy? Share what you are doing!
 
 ## Aaron Schlesinger
 
-I work at Microsoft as a cloud developer advocate. In my role, I spend almost all my time contributing to open source projects related to [Go](https://go.dev), [Kubernetes](https://kubernetes.io), and [Cloud Native](https://cncf.io) technologies.
+I am a Principal Cloud Advocate at Microsoft. I spend the majority of my time contributing to [KEDA](https://github.com/kedacore/keda) and the [KEDA HTTP Addon](https://github.com/kedacore/http-add-on). I also created the [Athens project](https://github.com/gomods/athens). My focus is generally Go, Kubernetes and other Cloud Native technologies.
 
 [@arschles](https://twitter.com/arschles) | [GitHub](https://github.com/arschles) | [LinkedIn](https://www.linkedin.com/in/aaronschlesinger/)
 
