@@ -32,7 +32,7 @@ Senior Content Developer at Microsoft, writing developer-focused content for doc
 
 - Brian Ketelsen ([@bketelsen](https://twitter.com/bketelsen))
 - Erik St Martin ([@erikstmartin](https://twitter.com/erikstmartin))
-- Ashley Willis ([@](https://twitter.com/ashleymcnamara))
+- Ashley Willis ([@ashleymcnamara](https://twitter.com/ashleymcnamara))
 - John Doak ([@johnsiilver](https://twitter.com/johnsiilver))
 - Rick Winter ([@]())
 - Tim Raymond ([@tim_raymond](https://twitter.com/tim_raymond))
