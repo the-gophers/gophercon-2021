@@ -42,5 +42,6 @@
 - Brigade ([github](https://github.com/brigadecore/brigade/) | [brigade.sh](https://brigade.sh/))
 - Porter ([github](https://github.com/dapr/dapr) | [porter.sh](https://porter.sh))
 - [Kubernetes Cluster API Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+- [Open Service Mesh (openservicemesh/osm)](https://github.com/openservicemesh/osm)
 - [Orkestra (Azure/orkestra)](https://github.com/Azure/orkestra)
 - [Athens (gomods/athens)](https://github.com/gomods/athens)
