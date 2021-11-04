@@ -16,6 +16,12 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 [@as_w](https://twitter.com/as_w) | [GitHub](https://github.com/asw101) | [LinkedIn](https://www.linkedin.com/in/aaron-wislang/)
 
+## Abhidnya Patil 
+
+...
+
+[@](https://twitter.com/) |  [GitHub](https://github.com/abhidnya13) | [LinkedIn]()
+
 ## David Justice
 
 ...
