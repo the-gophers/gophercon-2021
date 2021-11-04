@@ -22,6 +22,14 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 [@](https://twitter.com/) | [GitHub](https://github.com/abhidnya13) | [LinkedIn]()
 
+## Alessandro Segala
+
+I work at Microsoft as the Product Marketing Manager for Visual Studio Code and for JavaScript, Python, and Go on Azure. I've been using Go for a number of years, building personal projects in my spare time, and I enjoy contributing to open source projects. My first in-person Go conference was GopherCon 2017!
+
+Besides Go, I enjoy working with JavaScript/TypeScript for browsers and Node.js, Linux, and containers, and I've published [two books with Packt](https://www.packtpub.com/authors/alessandro-segala).
+
+[@ItalyPaleAle](https://twitter.com/ItalyPaleAle) | [GitHub](https://github.com/ItalyPaleAle) | [LinkedIn](https://www.linkedin.com/in/alessandrosegala/)
+
 ## Carolyn Van Slyck
 
 ...
@@ -75,6 +83,5 @@ Senior Content Developer at Microsoft, writing developer-focused content for doc
 - Abhidnya Patil ([@](https://twitter.com/))
 - Joel Hendrix ([@](https://twitter.com/))
 - Jack Francis ([@](https://twitter.com/))
-- Alessandro Segala ([@](https://twitter.com/ItalyPaleAle))
 - Scott Soine ([@ScottSoine](https://twitter.com/ScottSoine))
 - ([@](https://twitter.com/))
