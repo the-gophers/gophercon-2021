@@ -26,7 +26,7 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 ...
 
-([@johnsiilver](https://twitter.com/johnsiilver)) | [GitHub](https://github.com/element-of-surprise) | [LinkedIn](https://www.linkedin.com/in/johngdoak/)
+[@johnsiilver](https://twitter.com/johnsiilver) | [GitHub](https://github.com/element-of-surprise) | [LinkedIn](https://www.linkedin.com/in/johngdoak/)
 
 ## Joshua Duffney
 
