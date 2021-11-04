@@ -10,8 +10,7 @@ We will use [this gist](https://gist.github.com/asw101/cc31cf8d03e68bd45db172788
 
 ## Home
 
-- [Gophers of Microsoft](gophers.md)  
-  > Please add yourself here, or _let me know_ if there's anyone who would like to be included here!
+- [Gophers of Microsoft](gophers.md) -- Please add yourself here, or _let me know_ if there's anyone who would like to be included here!
 - [Go at Microsoft](go-at-microsoft.md)
 - [Schedule](schedule.md)
 - [Labs](labs.md)
