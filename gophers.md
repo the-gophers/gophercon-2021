@@ -34,6 +34,7 @@ Senior Content Developer at Microsoft, writing developer-focused content for doc
 - Erik St Martin ([@erikstmartin](https://twitter.com/erikstmartin))
 - Ashley Willis ([@ashleymcnamara](https://twitter.com/ashleymcnamara))
 - John Doak ([@johnsiilver](https://twitter.com/johnsiilver))
+- Carolyn Van Slyck ([@carolynvs](https://twitter.com/carolynvs)]
 - Rick Winter ([@]())
 - Tim Raymond ([@tim_raymond](https://twitter.com/tim_raymond))
 - Abhidnya Patel ([@](https://twitter.com/))
