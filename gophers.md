@@ -10,7 +10,7 @@ I am a Principal Cloud Advocate at Microsoft. I spend the majority of my time co
 
 ## Aaron Wislang
 
-I am a Gopher and Cloud Advocate at Microsoft with a focus on Go and Cloud Native. Alongside Go, I love working with Linux and Open Source, Containers, Kubernetes, and Python. I currently live in Toronto, Canada with my wife and our two boys.
+I am a Gopher and Cloud Advocate at Microsoft with a focus on Go and Cloud Native. Alongside Go, I love working with Linux and Open Source, Containers, Kubernetes, and Python. I have been writing Go since <...>, my first in-person Go conference was GopherCon 2018. I currently live in Toronto, Canada with my wife and our two boys.
 
 Please feel free to chat to me about _anything_ Go or Cloud Native related at Microsoft, as well as any of our open source projects such as [KEDA](https://github.com/kedacore/keda), the [KEDA HTTP Add-On](https://github.com/kedacore/http-add-on), [Dapr](https://github.com/dapr/dapr), etc...
 
