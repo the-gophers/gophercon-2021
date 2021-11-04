@@ -18,7 +18,15 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 ## David Justice
 
+...
+
 [@davidjustice](https://twitter.com/) | [GitHub](https://github.com/devigned) | [LinkedIn](https://www.linkedin.com/in/davidjustice/)
+
+## John Doak
+
+...
+
+([@johnsiilver](https://twitter.com/johnsiilver)) | [GitHub](https://github.com/element-of-surprise) | [LinkedIn](https://www.linkedin.com/in/johngdoak/)
 
 ## Joshua Duffney
 
