@@ -37,7 +37,7 @@ Senior Content Developer at Microsoft, writing developer-focused content for doc
 - Carolyn Van Slyck ([@carolynvs](https://twitter.com/carolynvs)]
 - Rick Winter ([@]())
 - Tim Raymond ([@tim_raymond](https://twitter.com/tim_raymond))
-- Abhidnya Patel ([@](https://twitter.com/))
+- Abhidnya Patil ([@](https://twitter.com/))
 - Joel Hendrix ([@](https://twitter.com/))
 - Jack Francis ([@](https://twitter.com/))
 - Alessandro Segala ([@](https://twitter.com/ItalyPaleAle))
