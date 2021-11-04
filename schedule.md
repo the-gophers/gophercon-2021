@@ -7,7 +7,7 @@ All times are Pacfic Standard Time (PST)
 ### 8:30-9:30am: Gophers of Microsoft / Ask Me Anything / Labs
 People: Aaron Wislang, Aaron Schlesinger, David Justice
 
-### 10:30-11:00am: <TBD>
+### 10:30-11:00am: Lets talk docs.  Learn about the docs on doc.microsoft.com for Go! Developers
 People: Joshua Duffney
 
 ### 11:30am-12:30pm: Gophers of Microsoft / Ask Me Anything / Labs
