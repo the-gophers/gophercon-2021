@@ -20,7 +20,15 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 ...
 
-[@](https://twitter.com/) |  [GitHub](https://github.com/abhidnya13) | [LinkedIn]()
+[@](https://twitter.com/) | [GitHub](https://github.com/abhidnya13) | [LinkedIn]()
+
+## Carolyn Van Slyck
+
+...
+
+[@carolynvs](https://twitter.com/carolynvs) | [GitHub](https://github.com/carolynvs) | [LinkedIn]()
+
+
 
 ## David Justice
 
