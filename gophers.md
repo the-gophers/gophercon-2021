@@ -28,6 +28,12 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 [@davidjustice](https://twitter.com/) | [GitHub](https://github.com/devigned) | [LinkedIn](https://www.linkedin.com/in/davidjustice/)
 
+## Joel Hendrix
+
+...
+
+[@](https://twitter.com) | [GitHub](https://github.com/jhendrixMSFT) | [LinkedIn]()
+
 ## John Doak
 
 ...
