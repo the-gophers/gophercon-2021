@@ -39,6 +39,7 @@
 
 - KEDA (Kubernetes Event Driven Autoscaler) ([github](https://github.com/kedacore/keda) | [keda.sh](https://keda.sh/)) & [KEDA HTTP Addon](https://github.com/kedacore/http-add-on)
 - Dapr (Distributed Application Runtime) ([github](https://github.com/dapr/dapr) | [dapr.io](https://dapr.io))
+- Brigade ([github](https://github.com/brigadecore/brigade/) | [brigade.sh](https://brigade.sh/))
 - Porter ([github](https://github.com/dapr/dapr) | [porter.sh](https://porter.sh))
 - [Kubernetes Cluster API Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
 - [Orkestra (Azure/orkestra)](https://github.com/Azure/orkestra)
