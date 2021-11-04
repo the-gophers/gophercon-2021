@@ -44,4 +44,5 @@
 - [Kubernetes Cluster API Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
 - [Open Service Mesh (openservicemesh/osm)](https://github.com/openservicemesh/osm)
 - [Orkestra (Azure/orkestra)](https://github.com/Azure/orkestra)
+- [Application Gateway Ingress Controller (Azure/application-gateway-kubernetes-ingress)](https://github.com/azure/application-gateway-kubernetes-ingress)
 - [Athens (gomods/athens)](https://github.com/gomods/athens)
