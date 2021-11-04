@@ -54,6 +54,13 @@ Senior Content Developer at Microsoft, writing developer-focused content for doc
 
 [@joshduffney](https://twitter.com/joshduffney) | [GitHub](https://github.com/Duffney) | [LinkedIn](https://www.linkedin.com/in/joshduffney/)
 
+## Matias Quaranta
+
+...
+
+[@]() | [GitHub](https://github.com/ealsur) | [LinkedIn]()
+
+
 ---
 
 ## More
