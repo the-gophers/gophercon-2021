@@ -64,9 +64,9 @@ Senior Content Developer at Microsoft, writing developer-focused content for doc
 
 ## Matias Quaranta
 
-...
+I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go SDK. Long time developer on Cosmos DB's SDK, love writing blogs, docs, samples. I live in Redmond, WA (USA) but I'm originally from Argentina. I love the outdoors, a hot cup of coffee, fantasy books, and I do [HEMA longsword fencing](https://www.youtube.com/watch?v=VMHRP0VelSo) on my free time.
 
-[@]() | [GitHub](https://github.com/ealsur) | [LinkedIn]()
+[@ealsur](https://twitter.com/ealsur) | [GitHub](https://github.com/ealsur) | [LinkedIn](https://www.linkedin.com/in/ealsur/)
 
 
 ---
