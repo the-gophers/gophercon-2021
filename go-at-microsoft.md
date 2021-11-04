@@ -41,4 +41,5 @@
 - Dapr (Distributed Application Runtime) ([github](https://github.com/dapr/dapr) | [dapr.io](https://dapr.io))
 - Porter ([github](https://github.com/dapr/dapr) | [porter.sh](https://porter.sh))
 - [Kubernetes Cluster API Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
-- [Athens](https://github.com/gomods/athens)
+- [Orkestra (Azure/orkestra)](https://github.com/Azure/orkestra)
+- [Athens (gomods/athens)](https://github.com/gomods/athens)
