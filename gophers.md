@@ -70,6 +70,8 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 ## Rick Winter
 
+...
+
 [GitHub](https://github.com/RickWinter)
 
 ## Vijayan Ramakrishnan
