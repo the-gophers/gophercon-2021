@@ -68,6 +68,10 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 [@ealsur](https://twitter.com/ealsur) | [GitHub](https://github.com/ealsur) | [LinkedIn](https://www.linkedin.com/in/ealsur/)
 
+## Rick Winter
+
+[GitHub](https://github.com/RickWinter)
+
 ## Vijayan Ramakrishnan
 
 ...
