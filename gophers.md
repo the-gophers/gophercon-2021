@@ -76,7 +76,9 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 ## Tim Raymond
 
-[@]() | [GitHub](https://github.com/timraymond) | [LinkedIn]()
+...
+
+[@tim_raymond](https://twitter.com/tim_raymond) | [GitHub](https://github.com/timraymond) | [LinkedIn]()
 
 ## Vijayan Ramakrishnan
 
