@@ -10,6 +10,8 @@ People: Aaron Wislang, Aaron Schlesinger, David Justice
 ### 10:30-11:00am: Lets talk docs.  Learn about the docs on docs.microsoft.com for Go! Developers
 People: Joshua Duffney
 
+11:00am 
+
 ### 11:30am-12:30pm: Gophers of Microsoft / Ask Me Anything / Labs
 People: Aaron Wislang, Aaron Schlesinger, David Justice
 
