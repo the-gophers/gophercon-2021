@@ -99,7 +99,7 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 - Carolyn Van Slyck ([@carolynvs](https://twitter.com/carolynvs)]
 - Rick Winter ([@]())
 - Tim Raymond ([@tim_raymond](https://twitter.com/tim_raymond))
-- Abhidnya Patil ([@](https://twitter.com/))
+- Abhidnya Patil ([@](https://twitter.com/patil_abhidnya))
 - Joel Hendrix ([@](https://twitter.com/))
 - Jack Francis ([@](https://twitter.com/))
 - Scott Soine ([@ScottSoine](https://twitter.com/ScottSoine))
