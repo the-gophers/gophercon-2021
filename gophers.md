@@ -22,7 +22,7 @@ I work at Microsoft as a Software Engineer in Azure Identity. I started my Go jo
 
 Feel free to chat with me if you want to know more about the project I work on are are interested in contrubuting or just say want to say hi to a fairly new Gopher. 
 
-[@](https://twitter.com/patil_abhidnya) | [GitHub](https://github.com/abhidnya13) | [LinkedIn](https://www.linkedin.com/in/abhidnya-patil/)
+[@patil_abhidnya](https://twitter.com/patil_abhidnya) | [GitHub](https://github.com/abhidnya13) | [LinkedIn](https://www.linkedin.com/in/abhidnya-patil/)
 
 ## Alessandro Segala
 
@@ -99,7 +99,7 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 - Carolyn Van Slyck ([@carolynvs](https://twitter.com/carolynvs)]
 - Rick Winter ([@]())
 - Tim Raymond ([@tim_raymond](https://twitter.com/tim_raymond))
-- Abhidnya Patil ([@](https://twitter.com/patil_abhidnya))
+- Abhidnya Patil ([@patil_abhidnya](https://twitter.com/patil_abhidnya))
 - Joel Hendrix ([@](https://twitter.com/))
 - Jack Francis ([@](https://twitter.com/))
 - Scott Soine ([@ScottSoine](https://twitter.com/ScottSoine))
