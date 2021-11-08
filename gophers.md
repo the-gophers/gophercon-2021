@@ -20,7 +20,7 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 I work at Microsoft as a Software Engineer in Azure Identity. I started my Go journey roughly about a year ago to work on the development of a [Golang SDK](https://github.com/AzureAD/microsoft-authentication-library-for-go) for Azure App Developers to integrate to the Microsoft Identity Platform for all authentication scenarios. I have loved working on open source projects here at Microsoft and love the community I get to be a part of as a Gopher. 
 
-Feel free to chat with me if you want to know more about the project I work on are are interested in contrubuting or just say want to say hi to a fairly new Gopher. 
+Feel free to chat with me if you want to know more about the project I work on or are interested in contrubuting or just want to say hi to a fairly new Gopher. 
 
 [@patil_abhidnya](https://twitter.com/patil_abhidnya) | [GitHub](https://github.com/abhidnya13) | [LinkedIn](https://www.linkedin.com/in/abhidnya-patil/)
 
@@ -69,6 +69,12 @@ I am an Azure Software Architect working on HTTP APIs and SDKs. I have also auth
 Senior Content Developer at Microsoft, writing developer-focused content for docs.microsoft.com. Former Microsoft MVP and Ex-SRE at StackOverflow.
 
 [@joshduffney](https://twitter.com/joshduffney) | [GitHub](https://github.com/Duffney) | [LinkedIn](https://www.linkedin.com/in/joshduffney/)
+
+## Kimberly Ying
+
+I'm a Program Manager at Microsoft, working with the Azure SDK for Go team, and I am just beginning my journey with Go. Feel free to connect with me; I'd love to hear what you're working on with Go!
+
+[@kimberly_ying](https://twitter.com/kimberly_ying) | [GitHub](https://github.com/kimprice) | [LinkedIn](https://www.linkedin.com/in/kimberlymying/)
 
 ## Matias Quaranta
 
