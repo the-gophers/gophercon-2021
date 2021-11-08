@@ -10,7 +10,7 @@ People: Aaron Wislang, Aaron Schlesinger, David Justice
 ### 10:30-11:00am: Lets talk docs.  Learn about the docs on docs.microsoft.com for Go! Developers
 People: Joshua Duffney
 
-Description:  Hands on Walk through of the new Go Dev Center that lives on Ms Learn.  Open to feedback, questions and suggestions for the new Hub for Go! Developers.  
+Description:  Hands on Walk through of the new Go Dev Center that lives on doc.microosft.com.  Open to feedback, questions and suggestions for the new Hub for Go! Developers.  
 
 ### 11:00-11:30am: PreConference Workshop: Ask Me Anything about gRPC
 People: Timothy Raymond
