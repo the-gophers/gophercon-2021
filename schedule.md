@@ -12,8 +12,11 @@ People: Joshua Duffney
 
 Description:  Hands on Walk through of the new Go Dev Center that lives on Ms Learn.  Open to feedback questions and inquiries of the new hub.  
 
-### 11:00-11:30am: PreConference Workshop: Ask Me Anything
+### 11:00-11:30am: PreConference Workshop: Ask Me Anything about gRPC
 People: Timothy Raymond
+
+Description:  Follow up to the Pre Conference Workshop about gRPC
+Building distributed systems can be extremely complex, but it doesn’t have to be. gRPC was created as a high performance RPC framework that makes it easy to build client/server applications. Using protocol buffers, you can define both data messages and procedure calls that turn into easy to consume structures and services in Go.
 
 ### 11:30am-12:30pm: Gophers of Microsoft / Ask Me Anything / Labs
 People: Aaron Wislang, Aaron Schlesinger, David Justice
