@@ -18,9 +18,11 @@ Please feel free to chat to me about _anything_ Go or Cloud Native related at Mi
 
 ## Abhidnya Patil 
 
-...
+I work at Microsoft as a Software Engineer in Azure Identity. I started my Go journey roughly about a year ago to work on the development of a [Golang SDK](https://github.com/AzureAD/microsoft-authentication-library-for-go) for Azure App Developers to integrate to the Microsoft Identity Platform for all authentication scenarios. I have loved working on open source projects here at Microsoft and love the community I get to be a part of as a Gopher. 
 
-[@](https://twitter.com/) | [GitHub](https://github.com/abhidnya13) | [LinkedIn]()
+Feel free to chat with me if you want to know more about the project I work on are are interested in contrubuting or just say want to say hi to a fairly new Gopher. 
+
+[@](https://twitter.com/patil_abhidnya) | [GitHub](https://github.com/abhidnya13) | [LinkedIn](https://www.linkedin.com/in/abhidnya-patil/)
 
 ## Alessandro Segala
 
