@@ -46,6 +46,12 @@ Besides Go, I enjoy working with JavaScript/TypeScript for browsers and Node.js,
 
 [@davidjustice](https://twitter.com/) | [GitHub](https://github.com/devigned) | [LinkedIn](https://www.linkedin.com/in/davidjustice/)
 
+## Jeffrey Richter
+
+I am an Azure Software Architect working on HTTP APIs and SDKs. I have also authored several best-selling Windows & .NET programming books as well as many MSDN magazine feature articles and columns. I am a co-founder of Wintellect, a software consulting and training company where I built WintellectNOW and authored many videos available on it.
+
+[GitHub](https://github.com/JeffreyRichter) | [LinkedIn](https://www.linkedin.com/in/jeffrichter/)
+
 ## Joel Hendrix
 
 ...
