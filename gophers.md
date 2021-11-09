@@ -32,6 +32,13 @@ Besides Go, I enjoy working with JavaScript/TypeScript for browsers and Node.js,
 
 [@ItalyPaleAle](https://twitter.com/ItalyPaleAle) | [GitHub](https://github.com/ItalyPaleAle) | [LinkedIn](https://www.linkedin.com/in/alessandrosegala/)
 
+## Akshay Gupta
+
+...
+
+[@](https://twitter.com/) | [GitHub](https://github.com/akshaysngupta) | [LinkedIn]()
+
+
 ## Carolyn Van Slyck
 
 ...
