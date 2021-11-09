@@ -55,7 +55,7 @@ Besides Go, I enjoy working with JavaScript/TypeScript for browsers and Node.js,
 
 ## Jeffrey Richter
 
-I am an Azure Software Architect working on HTTP APIs and SDKs. I have also authored several best-selling Windows & .NET programming books as well as many MSDN magazine feature articles and columns. I am a co-founder of Wintellect, a software consulting and training company where I built WintellectNOW and authored many videos available on it.
+I am an Azure Software Architect working on HTTP APIs and SDKs. I have also authored several best-selling Windows & .NET [programming books](https://www.amazon.com/Jeffrey-Richter/e/B000APH134/ref=sr_tc_2_0?qid=1456680389&sr=1-2-ent) as well as many MSDN magazine [feature articles and columns](https://docs.microsoft.com/en-US/search/?terms=jeffrey%20richter). And presented at many technology events including [Go Northwest](https://www.youtube.com/channel/UCq9zCm9qiQ6glsz8B3kwsxw/videos). I am a co-founder of [Wintellect](https://www.wintellect.com/), a software consulting and training company where I built [WintellectNOW](https://www.wintellectnow.com/) and authored many videos available on the platform.
 
 [GitHub](https://github.com/JeffreyRichter) | [LinkedIn](https://www.linkedin.com/in/jeffrichter/)
 
