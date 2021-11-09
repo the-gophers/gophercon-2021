@@ -89,6 +89,12 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 [@ealsur](https://twitter.com/ealsur) | [GitHub](https://github.com/ealsur) | [LinkedIn](https://www.linkedin.com/in/ealsur/)
 
+## Mike Kistler
+
+I'm a Product Manager at Microsoft responsible for the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go). I've worked in Go on and off for the past couple of years, mostly in the area of client libraries and Terraform providers. I am also working on the processes and tooling to produce client libraries for Azure Cloud services.
+
+[@mkistler82](https://twitter.com/mkistler82) | [GitHub](https://github.com/mikekistler) | [LinkedIn](https://www.linkedin.com/in/michael-kistler)
+
 ## Phil Kedy
 
 ...
