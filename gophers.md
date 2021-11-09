@@ -104,7 +104,7 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 ...
 
-[@](https://twitter.com) | [GitHub](https://github.com/vramakrishnan) | [LinkedIn]()
+[@vij_ram](https://twitter.com/vij_ram) | [GitHub](https://github.com/vramakrishnan) | [LinkedIn](https://www.linkedin.com/in/vijayanramakrishnan/)
 
 ---
 
