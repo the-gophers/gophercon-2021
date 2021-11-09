@@ -97,7 +97,7 @@ I'm a Product Manager at Microsoft responsible for the [Azure SDK for Go](https:
 
 ## Phil Kedy
 
-...
+Phil Kedy is researcher who loves building cloud native tools and solving problems of the future. He is a Distinguished Engineer at Capital One working with WebAssembly, Service Meshes and Sidecars, Kubernetes, and streaming data solutions. Previously, Phil was a consultant specializing in Microservices, API strategy, mobile and content management. His experience spans digital transformation and technology modernization with numerous Fortune 500 companies.
 
 [@](https://twitter.com) | [GitHub](https://github.com/pkedy) | [LinkedIn]()
 
