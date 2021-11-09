@@ -109,7 +109,9 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 ## Vijayan Ramakrishnan
 
-...
+I am an engineering director at Microsoft, part of Azure networking team focusing on building and operating some of the largest Application delivery & Security services. Led the launch of two golang based OSS projects 
+[Application gateway ingress controller] (https://github.com/azure/application-gateway-kubernetes-ingress)
+[Open Service Mesh] (https://github.com/openservicemesh/osm). Prior to my current role, was an active gopher and software architect in startups working on cloud stack and SDN controllers. Besides Go, I love sports (Go Packers !), outdoors, travel, music & cooking.
 
 [@vij_ram](https://twitter.com/vij_ram) | [GitHub](https://github.com/vramakrishnan) | [LinkedIn](https://www.linkedin.com/in/vijayanramakrishnan/)
 
