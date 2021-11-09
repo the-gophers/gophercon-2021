@@ -109,7 +109,7 @@ Phil Kedy is researcher who loves building cloud native tools and solving proble
 
 ## Tim Raymond
 
-...
+Tim Raymond is a full-stack developer with over six years of experience writing Go for companies such as USA Today, InfluxData, and Mattel. He's worked on everything from publishing pipelines, gRPC APIs, IoT backends, and interactive React frontends powered by Go backends. Prior to his involvement in the Go community, Tim served as an organizer for the Boston Ruby Group. His professional interests range across web applications, compilers, networking, performance, and cryptography.
 
 [@tim_raymond](https://twitter.com/tim_raymond) | [GitHub](https://github.com/timraymond) | [LinkedIn]()
 
