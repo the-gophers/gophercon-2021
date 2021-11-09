@@ -28,19 +28,19 @@ Description: Ever wanted to learn about GitHub Action based in Go?  This is the 
 ## December 9
 
 ### 8:30-9:30am: Gophers of Microsoft / Ask Me Anything / Labs
-People: Aaron Wislang, Aaron Schlesinger, David Justice
+People: Aaron Wislang
 
 
 ### 10:00am: DAPR Overview 
 People: Phil Kedy, Nick Grenfield
 
 ### 11:30am-12:30pm: Gophers of Microsoft / Ask Me Anything / Labs
-People: Aaron Wislang, Aaron Schlesinger, David Justice
+People: Aaron Wislang
 
 ## December 10
 
 ### 8:30-9:30am (PST): Gophers of Microsoft / Ask Me Anything / Labs
-People: Aaron Wislang, Aaron Schlesinger, David Justice
+People: Aaron Wislang
 
 ### 11:30am-12:30pm (PST): Gophers of Microsoft / Ask Me Anything / Labs
-People: Aaron Wislang, Aaron Schlesinger, David Justice
+People: Aaron Wislang
