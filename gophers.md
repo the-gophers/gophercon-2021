@@ -34,9 +34,9 @@ Besides Go, I enjoy working with JavaScript/TypeScript for browsers and Node.js,
 
 ## Akshay Gupta
 
-...
+I work at Microsoft as a Senior Software Engineer for Application delivery team in Azure Networking. I became a Gopher 2 years ago when I started contributing and leading [Application Gateway Ingress Controller](https://github.com/Azure/application-gateway-kubernetes-ingress) which is a Go-based Kubernetes ingress controller. Right now, I am using Go, C# and Cloud-Native principles to build the next generation of delivery services for Azure. When not gophering around, I am usually found in a nearby climbing gym practicing bouldering and top roping (and some yoga).
 
-[@](https://twitter.com/) | [GitHub](https://github.com/akshaysngupta) | [LinkedIn]()
+[GitHub](https://github.com/akshaysngupta) | [LinkedIn](https://www.linkedin.com/in/akshay-gupta-81966b69/)
 
 
 ## Carolyn Van Slyck
