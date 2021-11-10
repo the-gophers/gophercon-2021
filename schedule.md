@@ -40,7 +40,7 @@ The Team will also be discussing Cloud Native Go with KEDA (Kubernetes Event Dri
 ### 10:00am: DAPR Overview 
 People: Phil Kedy, Nick Greenfield
 
-Description: 
+Description: In this session, Phil Kedy and Nick Greenfield review key Dapr features and capabilities by building "Daprized" applications using Go. You will see how easy it is to use Dapr building block APIs in your application and extend Dapr by creating custom components to fit the needs of your project.
 
 ### 11:30am-12:30pm: Gophers of Microsoft / GO SDK Demo / Labs
 People: Aaron Wislang, Mike Kistler
