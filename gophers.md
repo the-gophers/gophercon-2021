@@ -73,7 +73,7 @@ I am an Azure Software Architect working on HTTP APIs and SDKs. I have also auth
 
 ## Joshua Duffney
 
-Senior Content Developer at Microsoft, writing developer-focused content for docs.microsoft.com. Former Microsoft MVP and Ex-SRE at StackOverflow.
+I'm a Senior Content Developer at Microsoft, working on the Azure experience for Go developers for docs.microsoft.com. Fun fact about me, I don't have a smartphone! 📵 It's all part of my slight obsession with [building systems of productivity](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw). 😅
 
 [@joshduffney](https://twitter.com/joshduffney) | [GitHub](https://github.com/Duffney) | [LinkedIn](https://www.linkedin.com/in/joshduffney/)
 
