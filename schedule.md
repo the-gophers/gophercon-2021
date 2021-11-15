@@ -37,7 +37,7 @@ People: Aaron Wislang, Mike Kistler
 Description:  Join the SDK Team for a GO! SDK demo.  Ask questions, provide feedback on the SDK.  
 The Team will also be discussing Cloud Native Go with KEDA (Kubernetes Event Driven Autoscaling) & KEDA HTTP Addon and Azure Container Apps
 
-### 10:00am: DAPR Overview 
+### 10:00am-10:45am PST: DAPR Overview 
 People: Phil Kedy, Nick Greenfield
 
 Description: In this session, Phil Kedy and Nick Greenfield review key Dapr features and capabilities by building "Daprized" applications using Go. You will see how easy it is to use Dapr building block APIs in your application and extend Dapr by creating custom components to fit the needs of your project.
