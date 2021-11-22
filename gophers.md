@@ -89,6 +89,14 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 [@ealsur](https://twitter.com/ealsur) | [GitHub](https://github.com/ealsur) | [LinkedIn](https://www.linkedin.com/in/ealsur/)
 
+
+## Max Schmitt
+
+...
+
+[@maxibanki](https://twitter.com/maxibanki) | [GitHub](https://github.com/mxschmitt)
+
+
 ## Mike Kistler
 
 I'm a Product Manager at Microsoft responsible for the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go). I've worked in Go on and off for the past couple of years, mostly in the area of client libraries and Terraform providers. I am also working on the processes and tooling to produce client libraries for Azure Cloud services.
@@ -107,6 +115,16 @@ Phil Kedy is researcher who loves building cloud native tools and solving proble
 
 [GitHub](https://github.com/RickWinter)
 
+
+## Richard Park
+
+I'm a developer on the Azure SDK for Go team, currently working on the [azservicebus](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus) 
+package. I'm excited to work on what I think is a killer use case for Go w/ the SDK - writing lightweight message processors!
+
+(looks at others on the list) Err...I have _also_ used Kubernetes. I like it. More people should use it, it's just neat.
+
+[@parkplusplus](https://twitter.com/parkplusplus) | [GitHub](https://github.com/richardpark-msft)
+
 ## Tim Raymond
 
 Tim Raymond is a full-stack developer with over six years of experience writing Go for companies such as USA Today, InfluxData, and Mattel. He's worked on everything from publishing pipelines, gRPC APIs, IoT backends, and interactive React frontends powered by Go backends. Prior to his involvement in the Go community, Tim served as an organizer for the Boston Ruby Group. His professional interests range across web applications, compilers, networking, performance, and cryptography.
@@ -123,15 +141,6 @@ Led the launch of two golang based OSS projects :
 Prior to my current role, I was a software architect & gopher in startups working on cloud stack and SDN controllers. Besides Go & Kubernetes, I love sports (Go Packers !), outdoors, travel, music & cooking.
 
 [@vij_ram](https://twitter.com/vij_ram) | [GitHub](https://github.com/vramakrishnan) | [LinkedIn](https://www.linkedin.com/in/vijayanramakrishnan/)
-
-## Richard Park
-
-I'm a developer on the Azure SDK for Go team, currently working on the [azservicebus](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus) 
-package. I'm excited to work on what I think is a killer use case for Go w/ the SDK - writing lightweight message processors!
-
-(looks at others on the list) Err...I have _also_ used Kubernetes. I like it. More people should use it, it's just neat.
-
-[@parkplusplus](https://twitter.com/parkplusplus) | [GitHub](https://github.com/richardpark-msft)
 
 ---
 
