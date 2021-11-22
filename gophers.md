@@ -107,6 +107,12 @@ Phil Kedy is researcher who loves building cloud native tools and solving proble
 
 [GitHub](https://github.com/RickWinter)
 
+## Sean Kane
+
+Sean Kane is a software engineer at Microsoft, part of the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go) team. Sean works on the Go client libraries for the [Azure Tables](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/data/aztables), [Azure Key Vault Secrets](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/keyvault/azsecrets), and [Azure Key Vault Keys](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/keyvault/azkeys) libraries. 
+
+[@](https://twitter.com/seankane942) | [GitHub](https://github.com/seankane-msft) | [LinkedIn](https://www.linkedin.com/in/sean-kane-135754115/)
+
 ## Tim Raymond
 
 Tim Raymond is a full-stack developer with over six years of experience writing Go for companies such as USA Today, InfluxData, and Mattel. He's worked on everything from publishing pipelines, gRPC APIs, IoT backends, and interactive React frontends powered by Go backends. Prior to his involvement in the Go community, Tim served as an organizer for the Boston Ruby Group. His professional interests range across web applications, compilers, networking, performance, and cryptography.
