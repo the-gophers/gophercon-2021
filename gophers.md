@@ -89,6 +89,14 @@ I'm a Senior Software Engineer at Microsoft, working on the Azure Cosmos DB Go S
 
 [@ealsur](https://twitter.com/ealsur) | [GitHub](https://github.com/ealsur) | [LinkedIn](https://www.linkedin.com/in/ealsur/)
 
+
+## Max Schmitt
+
+...
+
+[@maxibanki](https://twitter.com/maxibanki) | [GitHub](https://github.com/mxschmitt)
+
+
 ## Mike Kistler
 
 I'm a Product Manager at Microsoft responsible for the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go). I've worked in Go on and off for the past couple of years, mostly in the area of client libraries and Terraform providers. I am also working on the processes and tooling to produce client libraries for Azure Cloud services.
@@ -107,9 +115,19 @@ Phil Kedy is researcher who loves building cloud native tools and solving proble
 
 [GitHub](https://github.com/RickWinter)
 
+## Richard Park
+
+I'm a developer on the Azure SDK for Go team, currently working on the [azservicebus](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus) 
+package. I'm excited to work on what I think is a killer use case for Go w/ the SDK - writing lightweight message processors!
+
+(looks at others on the list) Err...I have _also_ used Kubernetes. I like it. More people should use it, it's just neat.
+
+[@parkplusplus](https://twitter.com/parkplusplus) | [GitHub](https://github.com/richardpark-msft)
+
 ## Sean Kane
 
-Sean Kane is a software engineer at Microsoft, part of the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go) team. Sean works on the Go client libraries for the [Azure Tables](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/data/aztables), [Azure Key Vault Secrets](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/keyvault/azsecrets), and [Azure Key Vault Keys](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/keyvault/azkeys) libraries. 
+I am a software engineeron the [Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go) team. I am currently working on the [aztables](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/data/aztables),
+[azsecrets](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/keyvault/azsecrets), and [azkeys](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/keyvault/azkeys) libraries. 
 
 [@](https://twitter.com/seankane942) | [GitHub](https://github.com/seankane-msft) | [LinkedIn](https://www.linkedin.com/in/sean-kane-135754115/)
 
