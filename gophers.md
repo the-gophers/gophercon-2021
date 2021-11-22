@@ -124,6 +124,15 @@ Prior to my current role, I was a software architect & gopher in startups workin
 
 [@vij_ram](https://twitter.com/vij_ram) | [GitHub](https://github.com/vramakrishnan) | [LinkedIn](https://www.linkedin.com/in/vijayanramakrishnan/)
 
+## Richard Park
+
+I'm a developer on the Azure SDK for Go team, currently working on the [azservicebus](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus) 
+package. I'm excited to work on what I think is a killer use case for Go w/ the SDK - writing lightweight message processors!
+
+(looks at others on the list) Err...I have _also_ used Kubernetes. I like it. More people should use it, it's just neat.
+
+[@parkplusplus](https://twitter.com/parkplusplus) | [GitHub](https://github.com/richardpark-msft)
+
 ---
 
 ## More
