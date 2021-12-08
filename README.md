@@ -1,6 +1,6 @@
 # Microsoft @ GopherCon 2021
 
-[gophercon.com](https://www.gophercon.com/) | [Microsoft @ gophercon.com](https://www.gophercon.com/page/1778897/engage-microsoft) | [discord (#microsoft)](http://discord.gophercon.com/) | [meet us in GopherTown!](https://www.gophercon.com/#:~:text=ready%20for%20you!%C2%A0-,Making%20Connections,-Making%20meaningful%20connections)
+[gophercon.com](https://www.gophercon.com/) | [Microsoft @ gophercon.com](https://www.gophercon.com/page/1778897/engage-microsoft) | [Live stream @ Microsoft LearnTV](https://twitter.com/LearnTV/status/1468596278934310912) | [discord (#microsoft)](http://discord.gophercon.com/) | [meet us in GopherTown!](https://www.gophercon.com/#:~:text=ready%20for%20you!%C2%A0-,Making%20Connections,-Making%20meaningful%20connections)
 
 ## 1. [Gophers of Microsoft](gophers.md)
 
