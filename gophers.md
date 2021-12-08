@@ -37,6 +37,12 @@ I work at Microsoft as a Senior Software Engineer for Application delivery team 
 
 [GitHub](https://github.com/akshaysngupta) | [LinkedIn](https://www.linkedin.com/in/akshay-gupta-81966b69/)
 
+## Bernd Verst
+
+I'm an active contributor to the [CNCF project](https://www.cncf.io/projects/) [Dapr (Distributed Application Runtime)](https://dapr.io) and part of the Dapr OSS Engineering team at Microsoft. I have been a Gopher for just one year. When not working in Go I am primarily writing Python or Bash. In my free time I fly planes (C172SP G1000), run marathons, learn (spoken) languages, and write/perform/produce music.
+
+[@berndverst](https://twitter.com/berndverst) | [GitHub](https://github.com/berndverst) | [LinkedIn](https://www.linkedin.com/in/verst)
+
 ## Carolyn Van Slyck
 
 Maintainer for [Porter](https://porter.sh).
