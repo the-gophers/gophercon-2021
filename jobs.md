@@ -35,7 +35,7 @@
 - [Software Engineer 2](https://careers.microsoft.com/us/en/job/1132576/Software-Engineer-2)
 - [Software Engineer](https://careers.microsoft.com/us/en/job/1132573/Software-Engineer)
 
-## Service Mesh, Secure Supply, Microsoft Caontainer Registry:
+## Service Mesh, Secure Supply, Microsoft Container Registry:
 
 - https://gist.github.com/ritazh/a008f1b82fc6e77c4b40df6301bbffb3
 
