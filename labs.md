@@ -18,7 +18,7 @@ In this lab you will deploy an Azure Kubernetes Service (AKS) cluster and other 
 
 ### [3. Get Go-ing with GitHub Actions](https://github.com/the-gophers/cloud-native-go#3-get-go-ing-with-github-actions)
 
-## 3. Confirm lab completion and redeem your code for GopherCon 2021 Swag (❤️ GitHub).
-- You must complete at least **one** lab to qualify for the GopherCon 2021 Swag (❤️ GitHub).
+## 3. Confirm lab completion and redeem your code for GopherCon 2021 Swag ( ❤️  GitHub).
+- You must complete at least **one** lab to qualify for the GopherCon 2021 Swag ( ❤️  GitHub).
 - Follow the instructions in **\#gophercon-labs** to upload your screenshot / confirm completion. You may also need to confirm you are a GopherCon attendee.
 - Available while supplies last (current status: **available**).
