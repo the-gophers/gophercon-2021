@@ -35,9 +35,28 @@
 - [Software Engineer 2](https://careers.microsoft.com/us/en/job/1132576/Software-Engineer-2)
 - [Software Engineer](https://careers.microsoft.com/us/en/job/1132573/Software-Engineer)
 
-## Service Mesh, Secure Supply, Microsoft Container Registry:
+## Secure Supply Chain, Service Mesh, Microsoft Container Registry
 
-- https://gist.github.com/ritazh/a008f1b82fc6e77c4b40df6301bbffb3
+### Upstream team - Engineering - Secure supply chain
+- [Software Engineer II](https://careers.microsoft.com/us/en/job/1210002/Software-Engineer-II)
+- [Senior Software Engineer](https://careers.microsoft.com/us/en/job/1210007/Senior-Software-Engineer)
+- [Principal Software Engineer](https://careers.microsoft.com/us/en/job/1214048/Principal-Software-Engineer)
+
+### Upstream team - Engineering - Service Mesh
+- [Software Engineer II](https://careers.microsoft.com/us/en/job/1175661/Software-Engineer-II-Open-Service-Mesh)
+- [Senior Software Engineer](https://careers.microsoft.com/us/en/job/1141748/Senior-Software-Engineer-Open-Service-Mesh)
+- [Principal Software Engineer](https://careers.microsoft.com/us/en/job/1199637/Principal-Software-Engineer)
+
+### Upstream team - Engineering - Program Manager
+- [Program Manager](https://careers.microsoft.com/us/en/job/1219434/Program-Manager-Azure-Core-Upstream)
+- [Senior Program Manager](https://careers.microsoft.com/us/en/job/1203784/Senior-Program-Manager-Azure-Core-Upstream)
+- [Principal Program Manager](https://careers.microsoft.com/us/en/job/1119731/Principal-Program-Manager)
+
+### Microsoft Container Registry - Engineering
+- [Principal Software Engineer Manager](https://careers.microsoft.com/us/en/job/1185389/Principal-Software-Engineering-Manager)
+
+### Microsoft Container Registry - Program Manager
+- [Program Manager II](https://careers.microsoft.com/us/en/job/1205368/Program-Manager-II-Linux-Packaging)
 
 ## More @ Microsoft Careers
 
