@@ -30,6 +30,11 @@
 - [Senior Program Manager](https://careers.microsoft.com/us/en/job/1185072/Senior%20Program%20Manager)
 - [Senior Program Manager](https://careers.microsoft.com/us/en/job/1185086/Senior%20Program%20Manager)
 
+## Azure Networking - Engineering
+- [Senior Software Engineer](https://careers.microsoft.com/us/en/job/1050450/Senior-Software-Engineer)
+- [Software Engineer 2](https://careers.microsoft.com/us/en/job/1132576/Software-Engineer-2)
+- [Software Engineer](https://careers.microsoft.com/us/en/job/1132573/Software-Engineer)
+
 ## More @ Microsoft Careers
 
 ["golang" (98+ roles) @ Microsoft Careers (careers.microsoft.com)](https://careers.microsoft.com/professionals/us/en/search-results?keywords=golang)
