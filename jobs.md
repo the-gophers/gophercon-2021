@@ -5,7 +5,7 @@
 - [Cloud Advocate](https://careers.microsoft.com/us/en/job/1208508/Cloud-Advocate) (via [Brian Ketelsen (@bketelsen)](https://twitter.com/bketelsen/status/1464508063273136134?s=20))
 ## Senior Software Engineer
 
-- [Software Engineer II](https://twitter.com/carolynvs/status/1453833999680425985?s=20) (via [Carolyn Van Slyck](gophers.md]))
+- [Software Engineer II](https://twitter.com/carolynvs/status/1453833999680425985?s=20) (via [Carolyn Van Slyck](https://twitter.com/carolynvs))
 
 ## Azure Kubernetes Service (AKS) - Engineering
 - [Senior Software Engineer - Azure Kubernetes Service](https://careers.microsoft.com/us/en/job/1171089/Senior%20Software%20Engineer%20-%20Azure%20Kubernetes%20Service)
