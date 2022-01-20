@@ -14,11 +14,11 @@ Full lab details are available at <https://github.com/the-gophers/cloud-native-g
 
 In this lab you will deploy an Azure Kubernetes Service (AKS) cluster and other Azure services (Container Registry, Managed Identity, Storage Account, Service Bus, Key Vault), the open source KEDA (Kubernetes Event-driven Autoscaling) project, the KEDA HTTP Addon (kedacore/http-add-on) with Azure CLI and Bicep. You will then deploy a sample Go application, go-hello, to your cluster using kubectl and kustomization.
 
-### [2. Serverless Go with Azure Container Apps (ACA)](https://github.com/the-gophers/cloud-native-go#2-serverless-go-with-azure-container-apps-aca)
+### [2. Serverless Go with Azure Container Apps (ACA)](https://github.com/the-gophers/cloud-native-go/blob/main/MORE.md#2-serverless-go-with-azure-container-apps-aca)
 
-### [3. Get Go-ing with GitHub Actions](https://github.com/the-gophers/cloud-native-go#3-get-go-ing-with-github-actions)
+### [3. Get Go-ing with GitHub Actions](https://github.com/the-gophers/cloud-native-go/blob/main/MORE.md#3-get-go-ing-with-github-actions)
 
-## 3. Confirm lab completion and redeem your code for GopherCon 2021 Swag ( ❤️  GitHub).
-- You must complete at least **one** lab to qualify for the GopherCon 2021 Swag.
-- Follow the instructions in **\#gophercon-labs** to upload your screenshot / confirm completion. You may also need to confirm you are a GopherCon attendee.
+## 3. Confirm lab completion and redeem your code for Go labs swag ( ❤️  GitHub).
+- You must complete at least **one** lab to qualify for the Go labs swag.
+- Follow the instructions in **\#gophercon-labs** to upload your screenshot / confirm completion.
 - Available while supplies last (current status: **available**).
